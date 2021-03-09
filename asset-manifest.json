@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BUSCADOR_REACT_JS/static/css/main.5f3487aa.chunk.css",
+    "main.js": "/BUSCADOR_REACT_JS/static/js/main.7e246857.chunk.js",
+    "main.js.map": "/BUSCADOR_REACT_JS/static/js/main.7e246857.chunk.js.map",
+    "runtime-main.js": "/BUSCADOR_REACT_JS/static/js/runtime-main.d52cf84a.js",
+    "runtime-main.js.map": "/BUSCADOR_REACT_JS/static/js/runtime-main.d52cf84a.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/BUSCADOR_REACT_JS/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.e82da230.chunk.js": "/BUSCADOR_REACT_JS/static/js/2.e82da230.chunk.js",
+    "static/js/2.e82da230.chunk.js.map": "/BUSCADOR_REACT_JS/static/js/2.e82da230.chunk.js.map",
+    "static/js/3.afcfe740.chunk.js": "/BUSCADOR_REACT_JS/static/js/3.afcfe740.chunk.js",
+    "static/js/3.afcfe740.chunk.js.map": "/BUSCADOR_REACT_JS/static/js/3.afcfe740.chunk.js.map",
+    "index.html": "/BUSCADOR_REACT_JS/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/BUSCADOR_REACT_JS/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.5f3487aa.chunk.css.map": "/BUSCADOR_REACT_JS/static/css/main.5f3487aa.chunk.css.map",
+    "static/js/2.e82da230.chunk.js.LICENSE.txt": "/BUSCADOR_REACT_JS/static/js/2.e82da230.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d52cf84a.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.e82da230.chunk.js",
+    "static/css/main.5f3487aa.chunk.css",
+    "static/js/main.7e246857.chunk.js"
+  ]
+}
