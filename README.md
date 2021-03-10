@@ -76,3 +76,6 @@ filter(event){
     })
     
   }
+
+
+Link: https://pedromanueljm.github.io/BUSCADOR_REACT_JS/
