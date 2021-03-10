@@ -77,5 +77,8 @@ filter(event){
     
   }
 
+### BUSCADOR EN REACT 
+![buscador-react](https://user-images.githubusercontent.com/71619972/110556056-ca161400-810b-11eb-86df-34830d728af2.PNG)
+
 
 Link: https://pedromanueljm.github.io/BUSCADOR_REACT_JS/
